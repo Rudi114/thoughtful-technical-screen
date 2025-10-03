@@ -16,8 +16,7 @@
     },
     "test:coverage": {
       "name": "test:coverage",
-      "command": "npm run test:coverage",
-      "runAtStart": false
+      "command": "npm run test:coverage"
     }
   }
 }
